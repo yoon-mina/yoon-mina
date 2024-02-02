@@ -8,7 +8,7 @@
 
 ### ✉ SNS
 
-<img src="https://img.shields.io/badge/dy_mn.a-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>   <img src="https://img.shields.io/badge/skwhjj@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>   <a href="[url](https://velog.io/@guumi/posts)" ><img src="https://img.shields.io/badge/guumi-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a><br><br><br>
+<img src="https://img.shields.io/badge/dy_mn.a-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>   <img src="https://img.shields.io/badge/skwhjj@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>   <a href="https://velog.io/@guumi/posts"><img src="https://img.shields.io/badge/guumi-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a><br><br><br>
 
 
 ### 👩‍💻 Skill 
@@ -28,9 +28,7 @@
 <br><br>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoon-mina&layout=compact)](https://github.com/yoon-mina/github-readme-stats)
-
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoon-mina&show_icons=true&theme=radical)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoon-mina&layout=compact)](https://github.com/yoon-mina/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoon-mina&show_icons=true&theme=radical)
 
 
 <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=skwhjj)](https://solved.ac/skwhjj)<br/>-->
