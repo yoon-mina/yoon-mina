@@ -29,7 +29,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoon-mina&layout=compact">  <img src="https://github-readme-stats.vercel.app/api?username=yoon-mina&show_icons=true">
 
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=guumi)](https://solved.ac/guumi/)
 
 <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=skwhjj)](https://solved.ac/skwhjj)<br/>-->
 
