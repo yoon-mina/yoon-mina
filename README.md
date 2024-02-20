@@ -7,14 +7,15 @@
 
 ### ✉ SNS
 
-<img src="https://img.shields.io/badge/dy_mn.a-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>   <img src="https://img.shields.io/badge/skwhjj@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>   <a href="https://velog.io/@guumi/posts"><img src="https://img.shields.io/badge/guumi-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a><br><br><br>
+<img src="https://img.shields.io/badge/dy_mn.a-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>   <img src="https://img.shields.io/badge/skwhjj@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>   <a href="https://velog.io/@guumi/posts"><!--<img src="https://img.shields.io/badge/guumi-20C997?style=for-the-badge&logo=velog&logoColor=white"/>--></a><br><br><br>
 
 
 ### 👩‍💻 Skill 
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=Csharp&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=JAVA&logoColor=white"/> <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<!--<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=Csharp&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>--> 
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=JAVA&logoColor=white"/> <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/SPRING BOOT-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/SOLIDITY-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
 
@@ -29,7 +30,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoon-mina&layout=compact">  <img src="https://github-readme-stats.vercel.app/api?username=yoon-mina&show_icons=true">
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=guumi)](https://solved.ac/guumi/)
+<!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=guumi)](https://solved.ac/guumi/)-->
 
 <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=skwhjj)](https://solved.ac/skwhjj)<br/>-->
 
