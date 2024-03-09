@@ -17,14 +17,14 @@
 <!--<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=Csharp&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>--> 
 <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=JAVA&logoColor=white"/> <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/SPRING BOOT-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/SOLIDITY-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
+<img src="https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/SPRING BOOT-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/> <!--<img src="https://img.shields.io/badge/SOLIDITY-363636?style=for-the-badge&logo=solidity&logoColor=white"/>-->
 
 <img src="https://img.shields.io/badge/MICROSOFT SQL SERVER-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/> <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <br><br><br>
 
 
 ### ⚒ TOOLS
-<img src="https://img.shields.io/badge/ANDROID STUDIO-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/> <img src="https://img.shields.io/badge/VISUAL STUDIO CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/ECLIPSE-2C2255?style=for-the-badge&logo=ECLIPSE&logoColor=white"/> <img src="https://img.shields.io/badge/INTELLIJ IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+<img src="https://img.shields.io/badge/ANDROID STUDIO-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/> <img src="https://img.shields.io/badge/VISUAL STUDIO CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> <!--<img src="https://img.shields.io/badge/ECLIPSE-2C2255?style=for-the-badge&logo=ECLIPSE&logoColor=white"/>--> <img src="https://img.shields.io/badge/INTELLIJ IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
 <br><br>
 <br>
 
