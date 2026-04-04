@@ -2,15 +2,14 @@
 
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoon-mina%2Fhit-counter&count_bg=%23101011&title_bg=%23000000&icon=&icon_color=%23151515&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)-->
 ### Hi there 👋 
-🌱 I’m currently a senior at **Kookmin University** and learning **backend development**. <br><br>
+🌱 I’m currently learning **Cloud/DevOps Engineer**. <br><br>
 
 
 ### ✉ SNS
 
-<img src="https://img.shields.io/badge/dy_mn.a-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>   <img src="https://img.shields.io/badge/skwhjj@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>   <a href="https://velog.io/@guumi/posts"><img src="https://img.shields.io/badge/guumi-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a><br><br><br>
+<img src="https://img.shields.io/badge/skwhjj@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>   <a href="https://velog.io/@guumi/posts"><img src="https://img.shields.io/badge/guumi-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a><br><br><br>
 
-
-### 👩‍💻 Skill 
+### 👩‍💻 What I Work With
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
 
@@ -20,11 +19,31 @@
 <img src="https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/SPRING BOOT-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/> <!--<img src="https://img.shields.io/badge/SOLIDITY-363636?style=for-the-badge&logo=solidity&logoColor=white"/>-->
 <br><br><br>
 
+### Tech Stack & Focus
 
-### ⚒ TOOLS
-<img src="https://img.shields.io/badge/ANDROID STUDIO-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/> <img src="https://img.shields.io/badge/VISUAL STUDIO CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> <!--<img src="https://img.shields.io/badge/ECLIPSE-2C2255?style=for-the-badge&logo=ECLIPSE&logoColor=white"/>--> <img src="https://img.shields.io/badge/INTELLIJ IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
-<br><br>
-<br>
+☁️ Cloud & Infrastructure
+- AWS (VPC, EC2, RDS, ALB, ASG)
+- Terraform
+ </br>
+ 
+⚙️ Container & Orchestration
+- Docker
+- Kubernetes (EKS)
+ </br>
+ 
+📊 Monitoring & Observability
+- CloudWatch
+- Grafana / Loki / Mimir / Tempo
+ </br>
+ 
+🔐 DevSecOps
+- CI/CD Pipeline
+- IAM / Security Group / WAF
+ </br>
+ 
+🤖 Automation & Backend
+- Python (FastAPI)
+- AWS Lambda
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoon-mina&layout=compact">  <img src="https://github-readme-stats.vercel.app/api?username=yoon-mina&show_icons=true">
 
